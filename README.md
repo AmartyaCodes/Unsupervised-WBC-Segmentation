@@ -35,4 +35,15 @@ Now we take the 2nd image on the first row, since it represents the nucleus and 
 
 ## Step 4: Taking the Nucleus cluster, then Use Median Blur and Thresholding
 
+![download (45)](https://user-images.githubusercontent.com/44440114/144754354-8242c68e-7f63-491f-8d48-6d4ec6ab9f0e.png)
+
+After that we remove the noise using an morphological opening and a closing operation simultaneously
+
+## Step 5: Morphological Operations
+![download (46)](https://user-images.githubusercontent.com/44440114/144754399-fef5a357-932d-4827-aaaf-bd7371e3cdd9.png)
+
+Now replace the white pixels with the original pixel from the image 
+
+## Step 6: Output for Segmentation 
+![download (47)](https://user-images.githubusercontent.com/44440114/144754433-d48ff7ed-7baf-4328-8fb2-0b158f4e46c8.png)
 
