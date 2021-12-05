@@ -28,4 +28,7 @@ So we use K-Means Clustering algorithm to show the clusters with K=3
 
 ## Using K-Means Clustering 
 
+![download (43)](https://user-images.githubusercontent.com/44440114/144754236-8e138a94-147f-4a40-8e9c-f453514dd411.png)
+
+The top left represents the original image while the others represent the different clusters formed
 
