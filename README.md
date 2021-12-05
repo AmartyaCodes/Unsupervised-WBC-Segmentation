@@ -21,4 +21,11 @@ And it was found out through experiments, the H channel of the image, converted 
 So 
 ## Step 2: Giving H channel image as an Output
 
+![download (42)](https://user-images.githubusercontent.com/44440114/144754186-23d517f3-64f6-4634-bd58-7d8ec965ef72.png)
+
+Now we can clearly notice from the image that we have 3 clusters i. Nucleus, ii. Cytoplasm and iii. Background
+So we use K-Means Clustering algorithm to show the clusters with K=3
+
+## Using K-Means Clustering 
+
 
