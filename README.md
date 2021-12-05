@@ -26,9 +26,13 @@ So
 Now we can clearly notice from the image that we have 3 clusters i. Nucleus, ii. Cytoplasm and iii. Background
 So we use K-Means Clustering algorithm to show the clusters with K=3
 
-## Using K-Means Clustering 
+## Step 3: Using K-Means Clustering 
 
 ![download (43)](https://user-images.githubusercontent.com/44440114/144754236-8e138a94-147f-4a40-8e9c-f453514dd411.png)
 
 The top left represents the original image while the others represent the different clusters formed
+Now we take the 2nd image on the first row, since it represents the nucleus and observe it after having used Median Blur
+
+## Step 4: Taking the Nucleus cluster, then Use Median Blur and Thresholding
+
 
